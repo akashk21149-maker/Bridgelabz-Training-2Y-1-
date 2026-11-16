@@ -1,4 +1,4 @@
-package Recursion;
+package Recursion.Strings;
 
 public class BasicStack {
     public static void function1(){
